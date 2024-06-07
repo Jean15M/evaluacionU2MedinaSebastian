@@ -1,0 +1,3 @@
+insert into empleado(apellido,nombre,telefono,direccion,fecha_nacimiento,observacion,dias_trabajo,sueldo) values ('Medina','Sebastian','0123456789','Ochoa Leon','2024-06-02','Deudor',10,150);
+insert into empleado(apellido,nombre,telefono,direccion,fecha_nacimiento,observacion,dias_trabajo,sueldo) values ('Perez','Julian','0123456789','Ochoa Leon','2024-06-02','Pasante',30,472.5);
+insert into empleado(apellido,nombre,telefono,direccion,fecha_nacimiento,observacion,dias_trabajo,sueldo) values ('Mendieta','Maria','0123456789','Ochoa Leon','2024-06-02','Pasante',15,225.5);
